@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1717000630 source:c:\users\mohsen\onedrive\documents\code blocks\darwish_mohsen_cr1.3a_temadecase\main.c
+	"edit_distance.h"
+
+1717002120 c:\users\mohsen\onedrive\documents\code blocks\darwish_mohsen_cr1.3a_temadecase\edit_distance.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
